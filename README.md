@@ -4,12 +4,9 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name||
+|Name||
+|Twitter|[@ohana_takataka](https://twitter.com/ohana_takataka)|
 
 ## スキル
 
@@ -19,9 +16,7 @@
 
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
-
+  
 ### フレームワーク
 
 - Framework名
